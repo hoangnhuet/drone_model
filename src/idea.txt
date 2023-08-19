@@ -1,1 +1,3 @@
-
+Publish command through cmd_vel
+action space  simple (v+ and v-)
+In each time step, by obtain odom data and try all possible action, calculate the reward 
